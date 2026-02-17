@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+/* ThemeProvider toggles `.dark` on <html>. */
+.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+/* Better default focus + selection */
+::selection {
+  background: color-mix(in oklab, var(--foreground) 15%, transparent);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
