@@ -219,4 +219,4 @@ Rooms:
 - **Observability** (structured logs, tracing, metrics)
 
 
-Drive Recording Link :- https://drive.google.com/file/d/1MObvegYfoeih_pxez8tIac0TMv4UeznK/view?usp=drivesdk
+Drive Recording Link :- https://drive.google.com/file/d/1y6WsZcLTlBkmzr0m-tXNUdDQ-Hs7mwxd/view?usp=drivesdk
