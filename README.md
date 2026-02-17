@@ -217,3 +217,6 @@ Rooms:
 - **More question types** and tag-based selection
 - **E2E tests** (Playwright) and load tests for `/v1/quiz/answer`
 - **Observability** (structured logs, tracing, metrics)
+
+
+Drive Recording Link :- https://drive.google.com/file/d/1MObvegYfoeih_pxez8tIac0TMv4UeznK/view?usp=drivesdk
